@@ -1,0 +1,35 @@
+[
+  {
+    "ID": "b44814a0-77ac-492b-a735-4415f66e5c32",
+    "content": "Yes, absolutely.\n\nIf you want to get more control and unlimited features see the pricing here.",
+    "title": "Is Contentrain free ?",
+    "slug": "question-1",
+    "category": "General",
+    "createdAt": 1655990921021,
+    "updatedAt": 1655991027118
+  },
+  {
+    "ID": "f84088bd-18b3-47fa-b9b9-8e77f7bb4a39",
+    "content": "- Easy to integrate\n- Real-time collaboration\n- Built-in extensions\n- Content marketplace\n- See for more features here.",
+    "title": "What is the difference between Contentrain and other headless CMS?",
+    "slug": "question-2",
+    "category": "General",
+    "createdAt": 1655990997515
+  },
+  {
+    "ID": "96dc27c0-9b4a-468c-8bc6-5632fdfd7f8e",
+    "content": "The Contentrain is a web-based platform and runs on all modern desktop browsers. \n\n-    Google Chrome\n-    Mozilla Firefox\n-    Opera\n-    Apple Safari\n-    Microsoft Edge\n\n\nNote that Contentrain does not support mobile browsers.",
+    "title": "Which browsers does Contentrain support?",
+    "slug": "question-3",
+    "category": "Payment",
+    "createdAt": 1655991088254
+  },
+  {
+    "ID": "9585351f-13bf-45d5-9b3f-1886a8d74a31",
+    "content": "Contentrain is an extremely useful git-based headless CMS for developers, marketers, freelance content editors, startups, agencies, corporates, or anyone who publishes their content through Git.",
+    "title": "Who is Contentrain for?",
+    "slug": "question-4",
+    "category": "Payment",
+    "createdAt": 1655991128686
+  }
+]
